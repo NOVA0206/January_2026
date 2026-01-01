@@ -47,7 +47,7 @@ The goal is **consistency, clarity, and long-term mastery** — not shortcuts.
 ### 📌 January 2026 — Python Foundations
 
 - **Day 01:** Python foundations — basics, conditions, loops, lists, functions  
-  👉 [View Day 01 Summary](./January_2026/Day 01/Day01.md)
+  👉 [View Day 01 Summary](.Day01/Day01.md)
 
 ---
 
