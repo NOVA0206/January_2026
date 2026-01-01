@@ -88,6 +88,6 @@ This repository reflects **discipline and growth**, not just outcomes.
 </p>
 
 <p align="center">
-  <b>Building every day. Learning the right way.</b>
+  <b>Building every day. Learning the right way.</b><br>
   <b>Jeevan R. Jadhav - 2026</b>
 </p>
