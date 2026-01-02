@@ -48,6 +48,8 @@ The goal is **consistency, clarity, and long-term mastery** — not shortcuts.
 
 - **Day 01:** Python foundations — basics, conditions, loops, lists, functions  
   👉 [View Day 01 Summary](Day01/Day01.md)
+- **Day 02:** Python foundations — basics, lists, functions, combination of All 4 topics  
+  👉 [View Day 01 Summary](Day02/Day02.md)
 
 ---
 
