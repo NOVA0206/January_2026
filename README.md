@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-  <img src="https://wallpaperaccess.com/full/1128349.jpg" width="100%" alt="Anime Coding Banner"/>
+  <img src="[https://wallpaperaccess.com/full/1128349.jpg](https://png.pngtree.com/thumb_back/fw800/background/20251008/pngtree-anime-boy-coding-on-dual-monitors-in-dimly-lit-city-apartment-image_19796076.webp)" width="100%" alt="Anime Coding Banner"/>
 </p>
 
 <h1 align="center">🚀 AI Journey 2026</h1>
@@ -30,7 +30,7 @@
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=daPo6uKqgWk" target="_blank">
-    <img src="https://i.ytimg.com/vi/daPo6uKqgWk/maxresdefault.jpg" width="600" alt="Naruto Shippuden Theme"/>
+    <img src="[https://i.ytimg.com/vi/daPo6uKqgWk/maxresdefault.jpg](https://m.media-amazon.com/images/I/91ULcTpabJS.jpg)" width="600" alt="Naruto Shippuden Theme"/>
   </a>
 </p>
 
