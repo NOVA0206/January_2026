@@ -6,15 +6,15 @@
 
 ---
 
-<p align="center">
-  <img src="https://png.pngtree.com/thumb_back/fw800/background/20251008/pngtree-anime-boy-coding-on-dual-monitors-in-dimly-lit-city-apartment-image_19796076.webp" width="100%" alt="Anime Coding Banner"/>
-</p>
-
 <h1 align="center">🚀 AI Journey 2026</h1>
 
 <p align="center">
   A disciplined, day-by-day journey from <b>Python fundamentals</b> to <b>AI, ML & Deep Learning</b><br/>
   <b>January 2026 → June 2026</b>
+</p>
+
+<p align="center">
+  <img src="https://png.pngtree.com/thumb_back/fw800/background/20251008/pngtree-anime-boy-coding-on-dual-monitors-in-dimly-lit-city-apartment-image_19796076.webp" width="100%" alt="Anime Coding Banner" />
 </p>
 
 <p align="center">
