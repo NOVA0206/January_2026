@@ -1,0 +1,5 @@
+Naruto|Action|9.5
+One Piece|Adventure|9.8
+Attack on Titan|Dark Fantasy|9.7
+Demon Slayer|Action|9.0
+Death Note|Thriller|9.6
