@@ -4,6 +4,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="90"/>
 </p>
 
+---
+
 <h1 align="center">🚀 AI Journey 2026</h1>
 
 <p align="center">
@@ -12,10 +14,29 @@
 </p>
 
 <p align="center">
+  <img src="https://png.pngtree.com/thumb_back/fw800/background/20251008/pngtree-anime-boy-coding-on-dual-monitors-in-dimly-lit-city-apartment-image_19796076.webp" width="100%" alt="Anime Coding Banner" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square"/>
   <img src="https://img.shields.io/badge/Focus-AI%20%26%20ML-blue?style=flat-square"/>
   <img src="https://img.shields.io/badge/Language-Python-yellow?style=flat-square"/>
   <img src="https://img.shields.io/badge/Consistency-Daily%20Commits-brightgreen?style=flat-square"/>
+</p>
+
+---
+
+## 🎧 Naruto Theme — Coding Mode ON 🍃🔥
+
+<p align="center">
+  <a href="https://youtu.be/ziABaAUq5Ck?si=2lpjB-Nt_2Szdber" target="_blank">
+    <img src="https://m.media-amazon.com/images/I/91ULcTpabJS.jpg" width="600" alt="Naruto Shippuden Theme"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>🎶 Naruto Shippuden – Blue Bird / Hero’s Come Back<br>
+  Coding with focus, discipline, and long-term vision.</i>
 </p>
 
 ---
@@ -49,6 +70,9 @@ The goal is **consistency, clarity, and long-term mastery** — not shortcuts.
 - **Day 01:** Python foundations — basics, conditions, loops, lists, functions  
   👉 [View Day 01 Summary](Day01/Day01.md)
 
+- **Day 02:** Applied revision — lists, functions & integrated mini projects  
+  👉 [View Day 02 Summary](Day02/Day02.md)
+
 ---
 
 ### Each day contains:
@@ -61,15 +85,14 @@ The goal is **consistency, clarity, and long-term mastery** — not shortcuts.
 
 ## 🎯 Learning Philosophy
 
-> **Consistency beats intensity.**
+> **Consistency beats intensity.**  
+> *(Just like Naruto — slow start, unstoppable finish.)*
 
 - Daily practice
 - Strong fundamentals
 - Clean code
 - No shortcuts
 - Visible progress
-
-This repository reflects **discipline and growth**, not just outcomes.
 
 ---
 
@@ -84,10 +107,16 @@ This repository reflects **discipline and growth**, not just outcomes.
 ---
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284126-ec54f77f-0c30-4d92-9a0f-5b7a7d9f0f9c.gif" width="600"/>
+  <img src="https://media.tenor.com/2roX3uxz_68AAAAC/naruto-training.gif" width="500"/>
 </p>
 
 <p align="center">
+  <img src="https://media.tenor.com/Q4Yx2n2GZ8kAAAAC/anime-typing.gif" width="500"/>
+</p>
+
+---
+
+<p align="center">
   <b>Building every day. Learning the right way.</b><br>
-  <b>Jeevan R. Jadhav - 2026</b>
+  <b>Jeevan R. Jadhav · 2026</b>
 </p>
