@@ -35,7 +35,7 @@
 </p>
 
 <p align="center">
-  <i>🎶 Naruto Shippuden – Blue Bird / Hero’s Come Back<br>
+  <i>🎶 Naruto Shippuden – Blue Bird<br>
   Coding with focus, discipline, and long-term vision.</i>
 </p>
 
