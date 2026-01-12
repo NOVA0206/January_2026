@@ -73,6 +73,21 @@ The goal is **consistency, clarity, and long-term mastery** — not shortcuts.
 - **Day 02:** Applied revision — lists, functions & integrated mini projects  
   👉 [View Day 02 Summary](Day02/Day02.md)
 
+- **Day 03:** Applied revision — lists, functions & integrated mini projects  
+  👉 [View Day 02 Summary](Day02/Day02.md)
+
+- **Day 04:** Applied revision — lists, functions & integrated mini projects  
+  👉 [View Day 02 Summary](Day02/Day02.md)
+
+- **Day 05:** Applied revision — lists, functions & integrated mini projects  
+  👉 [View Day 02 Summary](Day02/Day02.md)
+
+- **Day 06:** Applied revision — lists, functions & integrated mini projects  
+  👉 [View Day 02 Summary](Day02/Day02.md)
+
+- **Day 07:** Applied revision — lists, functions & integrated mini projects  
+  👉 [View Day 02 Summary](Day02/Day02.md)
+
 ---
 
 ### Each day contains:
