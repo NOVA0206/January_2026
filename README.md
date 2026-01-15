@@ -133,5 +133,5 @@ The goal is **consistency, clarity, and long-term mastery** — not shortcuts.
 
 <p align="center">
   <b>Building every day. Learning the right way.</b><br>
-  <b>Jeevan R. Jadhav · 2026</b>
+  <b>Jeevan Ramesh Jadhav · 2026</b>
 </p>
